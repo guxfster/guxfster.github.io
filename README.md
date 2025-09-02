@@ -1,2 +1,1 @@
-# Gu's page
-I am a Professor of Mathematics
+I'm a Professor of Mathematics in the Dr. James 'Earl' Perry College of Mathematics, Computing, and Sciences at University of West Georgia.  I joined UWG as an Assistant Professor in August 2015; and obtained my PhD in Mathematics from West Virginia University in 2013 under the supervision of Hong-Jian Lai. Here is my profile at UWG and my Google Scholar. My Erdős number is 2 (via Guantao Chen or Ron Gould).
