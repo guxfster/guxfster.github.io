@@ -1,1 +1,1 @@
-# Gu's Homepage
+# Gu's page
